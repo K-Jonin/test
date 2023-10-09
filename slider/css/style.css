@@ -1,0 +1,22 @@
+.slider-wrapper {
+  display: flex;
+}
+.slider-wrapper .slider-for {
+  width: 40%;
+}
+.slider-wrapper .slider-for p {
+  width: 30%;
+  margin: 10px;
+}
+.slider-wrapper .slider-for p img {
+  max-width: 100%;
+}
+.slider-wrapper .flex-right {
+  width: 40%;
+}
+.slider-wrapper .flex-right .slider-nav p {
+  width: 30%;
+}
+.slider-wrapper .flex-right .slider-nav p img {
+  max-width: 100%;
+}/*# sourceMappingURL=style.css.map */

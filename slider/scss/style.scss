@@ -1,0 +1,24 @@
+.slider-wrapper {
+	display: flex;
+	.slider-for {
+		width: 40%;
+		p {
+			width: 30%;
+			margin: 10px;
+			img {
+				max-width: 100%;
+			}
+		}
+	}
+	.flex-right {
+		width: 40%;
+		.slider-nav {
+			p {
+				width: 30%;
+				img {
+					max-width: 100%;
+				}
+			}
+		}
+	}
+}
